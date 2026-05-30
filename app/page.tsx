@@ -51,7 +51,7 @@ export default function Home() {
       <div className="max-w-3xl mx-auto">
         {/* HEADER */}
         <div className="mb-8">
-          <div class="flex items-center justify-between">
+          <div className="flex items-center justify-between">
               <h1 className="text-4xl font-bold">LinkedIn AI Agent</h1>
               <span>BAYSAL Ilhami</span>
           </div>
